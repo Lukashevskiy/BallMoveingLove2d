@@ -3,8 +3,6 @@
 <h2>
 some feature look like ...
 </h2>
-
-<p>
-    <a> https://nidorx.github.io/ecs-lua/#/ </a>
-</p>
-<img src="demo.gif" style="width = 50px">
+[Library using]: https://nidorx.github.io/ecs-lua/#/
+<br>
+<img src="demo.gif" style="width:300px">
